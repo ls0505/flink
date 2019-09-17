@@ -5,7 +5,7 @@ flink中DataSet、DataStream、Window、缓存、Source、Sink相关说明及示
    ├─main
       ├─java
       │  └─com
-      │      └─ls
+      │      └─hrong
       │          └─flink
       │              ├─model
       │              ├─source 自定义mysql source
@@ -15,7 +15,7 @@ flink中DataSet、DataStream、Window、缓存、Source、Sink相关说明及示
       │              └─query
       ├─scala
       │  └─com
-      │      └─ls
+      │      └─hrong
       │          └─flink
       │              ├─cache             广播变量及将文件加入分布式缓存
       │              ├─session    
