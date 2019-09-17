@@ -1,11 +1,11 @@
-# flink-practice
+# flink
 flink中DataSet、DataStream、Window、缓存、Source、Sink相关说明及示例代码
 ```
 ├─src
    ├─main
       ├─java
       │  └─com
-      │      └─hrong
+      │      └─ls
       │          └─flink
       │              ├─model
       │              ├─source 自定义mysql source
@@ -15,7 +15,7 @@ flink中DataSet、DataStream、Window、缓存、Source、Sink相关说明及示
       │              └─query
       ├─scala
       │  └─com
-      │      └─hrong
+      │      └─ls
       │          └─flink
       │              ├─cache             广播变量及将文件加入分布式缓存
       │              ├─session    
